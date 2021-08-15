@@ -95,14 +95,16 @@ Tools - Prometheus, Nagios, etc.
 </ul>
 <br>
 <ul>
- <li>Infra. Provisioning (Terraform)<li>
- <li>Config. management (Ansible, Chef, Puppet)<li>
+ <li>Infra. Provisioning (Terraform)</li>
+ <li>Config. management (Ansible, Chef, Puppet)</li>
 </ul>
 <br>
 🔹You should know one of these tools to be:- <br>
-- More efficient
-- Transparent
-- Easy to replicate & recover
+<ul>
+<li>More efficient</li>
+<li>Transparent</li>
+<li>Easy to replicate & recover</li>
+</ul>
 
 ## 🔰 Scripting Language
 🔹 Automating tasks for development & operations :-  <br>
