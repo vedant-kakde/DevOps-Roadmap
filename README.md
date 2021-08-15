@@ -13,20 +13,21 @@
 - maintained on a server
 
 ## 🔰 Concepts of Software Development
-**Development**
-✅ Git
-✅ How developers work
-✅ Which git workflow
-✅ How application is configured
-✅ Automated testing
+**Development** <br>
+✅ Git <br>
+✅ How developers work <br>
+✅ Which git workflow <br>
+✅ How application is configured <br>
+✅ Automated testing <br>
 
 ## 🔰 Operating System & Linux Basics
 - Operations -> Server
 - Prepare the infrastructure
-✅ Linux Basics
-✅ Comfortable using CLI
-✅ Shell commands
-✅ Linux File System
-✅ Server Management
-✅ SSH Key Management
+✅ Linux Basics <br>
+✅ Comfortable using CLI <br>
+✅ Shell commands <br>
+✅ Linux File System <br>
+✅ Server Management <br>
+✅ SSH Key Management <br>
+
 
