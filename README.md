@@ -89,13 +89,17 @@ Tools - Prometheus, Nagios, etc.
 - Error prone <br>
  <br>
 🔸 Use code to :- <br>
-- Create infrastructure
-- Configure to run & deploy your app
- <br><br>
-- Infra. Provisioning (Terraform)
-- Config. management (Ansible, Chef, Puppet)
- <br><br>
-🔹You should know one of these tools to be:-
+<ul>
+<li>Create infrastructure</li>
+<li>Configure to run & deploy your app</li>
+</ul>
+<br>
+<ul>
+ <li>Infra. Provisioning (Terraform)<li>
+ <li>Config. management (Ansible, Chef, Puppet)<li>
+</ul>
+<br>
+🔹You should know one of these tools to be:- <br>
 - More efficient
 - Transparent
 - Easy to replicate & recover
