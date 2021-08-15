@@ -42,7 +42,7 @@
 ## 🔰 Containers
 ✅ Virtualization <br>
 ✅ Containers <br>
-✅ Docker <br>
+✅ <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <br>
 
 ## 🔰 How to release the Operations?
 **Build Automation & CI/CD** <br>
@@ -50,12 +50,12 @@
 (Maven & Gradle -> Java app. , npm -> JS app.) <br>
 ✅ Build Docker Images <br>
 ✅ Artifact Repository (Nexus, Docker Hub) <br>
-✅ Build Automation (Jenkins, GitLab, GitHub Actions) <br>
+✅ Build Automation (<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">, <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">, <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">) <br>
 ✅ Configure complete CI/CD pipeline <br>
 
 ## 🔰 Cloud Providers
 **Infrastructure as a Service** <br>
-AWS, Google Cloud, Azure <br>
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">, <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">, <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <br>
 🔹 Save costs <br>
 🔹 Offer a range of services - Load balancing, Backup, Clustering, Security, ... <br>
 🔹 Many services are Platform-specific services <br>
@@ -70,7 +70,7 @@ AWS, Google Cloud, Azure <br>
 🔹If we have lot more containers or Incase of big microservices <br>
 We need more powerful tool <br><br>
 ✅ Kubernetes <br>
-🚩 Learn K8s  <br>
+🚩 Learn <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <br>
 🚩 How it works, Administor & Manage the cluster, Deploy applications <br>
 
 ## 🔰 Monitoring
@@ -78,7 +78,7 @@ We need more powerful tool <br><br>
 - Discover Problems <br>
 ✅ Monitor Software <br>
 ✅ Monitor Infrastructure <br>
-Tools - Prometheus, Nagios, etc.
+Tools - <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"> , Nagios, etc.
 
 ## 🔰 Infrastructure as Code
 
@@ -96,7 +96,7 @@ Tools - Prometheus, Nagios, etc.
 <br>
 <ul>
  <li>Infra. Provisioning (Terraform)</li>
- <li>Config. management (Ansible, Chef, Puppet)</li>
+ <li>Config. management (<img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">, Chef, Puppet)</li>
 </ul>
 <br>
 🔹You should know one of these tools to be:- <br>
@@ -112,7 +112,7 @@ Backups, cron jobs, system monitoring <br>
 <br>
 ✅ Know a Scripting Language  <br>
 🚩 OS-specific - bash, shell  <br>
-🚩 OS-independent - Python, Ruby, Go <br><br>
+🚩 OS-independent - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">, <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">, <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" <br><br>
 
 🌟 Python is most popular <br>
 🚩 Easy to read <br>
@@ -120,8 +120,8 @@ Backups, cron jobs, system monitoring <br>
 🚩 Many Libraries for most of Databases, OS Tasks & Cloud Platforms
 
 ## 🔰 Version Control
-✅ Git <br>
-✅ GitHub <br>
+✅ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <br>
+✅ <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <br>
 
 ## ❗ How many tools to learn?
 
