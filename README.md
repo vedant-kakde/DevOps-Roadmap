@@ -5,12 +5,12 @@
 
 ## 🔰 There are two Departments
 🔹 DEVELOPMENT :-
->deploying of application
->testing of application
+- deploying of application
+- testing of application
 
 🔹 OPERATIONS :-
->deployment of application
->maintained on a server
+- deployment of application
+- maintained on a server
 
 
 
