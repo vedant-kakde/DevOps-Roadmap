@@ -22,7 +22,7 @@
 
 ## 🔰 Operating System & Linux Basics
 - Operations -> Server
-- Prepare the infrastructure
+- Prepare the infrastructure <br>
 ✅ Linux Basics <br>
 ✅ Comfortable using CLI <br>
 ✅ Shell commands <br>
