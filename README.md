@@ -1,9 +1,11 @@
 # 🛣 DevOps Roadmap
 
 <p align="center"><img src="devops-img/devops.png" height="250px"></p><br>
-- What DevOps concepts & tools to learn ?
-- Tasks & Responsibilities ?
-
+<ul>
+<li>What DevOps concepts & tools to learn ?</li>
+<li>Tasks & Responsibilities ?</li>
+</ul>
+ 
 ## 🔰 There are two Departments
 🔹 **DEVELOPMENT** :-
 - deploying of application
@@ -67,7 +69,7 @@ AWS, Google Cloud, Azure <br>
 ✅ Docker compose, Docker Swarm <br>
 <br>
 🔹If we have lot more containers or Incase of big microservices <br>
-We need more powerful tool <br>
+We need more powerful tool <br><br>
 ✅ Kubernetes <br>
 🚩 Learn K8s  <br>
 🚩 How it works, Administor & Manage the cluster, Deploy applications <br>
