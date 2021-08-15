@@ -112,7 +112,7 @@ Backups, cron jobs, system monitoring <br>
 <br>
 ✅ Know a Scripting Language  <br>
 🚩 OS-specific - bash, shell  <br>
-🚩 OS-independent - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">, <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">, <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" <br><br>
+🚩 OS-independent - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">, <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">, <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <br><br>
 
 🌟 Python is most popular <br>
 🚩 Easy to read <br>
