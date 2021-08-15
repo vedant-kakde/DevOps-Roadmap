@@ -50,8 +50,7 @@
 (Maven & Gradle -> Java app. , npm -> JS app.) <br>
 ✅ Build Docker Images <br>
 ✅ Artifact Repository (Nexus, Docker Hub) <br>
-✅ Build Automation <br>
-(Jenkins, GitLab, GitHub Actions) <br>
+✅ Build Automation (Jenkins, GitLab, GitHub Actions) <br>
 ✅ Configure complete CI/CD pipeline <br>
 
 ## 🔰 Cloud Providers
@@ -76,8 +75,8 @@ We need more powerful tool <br><br>
 
 ## 🔰 Monitoring
 - Track Performance
-- Discover Problems
-✅ Monitor Software
+- Discover Problems <br>
+✅ Monitor Software <br>
 ✅ Monitor Infrastructure <br>
 Tools - Prometheus, Nagios, etc.
 
