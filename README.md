@@ -1,6 +1,6 @@
 # 🛣 DevOps Roadmap
 
-<img align="center" src="devops-img/devops.png" height="250px" />
+<img align="center" src="devops-img/devops.png" height="250px" /><br>
 - What DevOps concepts & tools to learn ?
 - Tasks & Responsibilities ?
 
