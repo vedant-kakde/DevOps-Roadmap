@@ -21,8 +21,8 @@
 ✅ Automated testing <br>
 
 ## 🔰 Operating System & Linux Basics
-- Operations -> Server
-- Prepare the infrastructure <br>
+🔹 Operations -> Server <br>
+🔹 Prepare the infrastructure <br>
 ✅ Linux Basics <br>
 ✅ Comfortable using CLI <br>
 ✅ Shell commands <br>
